@@ -11,3 +11,22 @@ otherwise git comes with warning "untracked files"
 >git add .
 stages current directory (before actual commit)
 
+>git add -f <filename>
+forces add although in .gitignore
+
+>git rm --cached <filename>
+removes file from stage
+
+>git commit
+commits all to repository
+
+>git config --list
+shows config
+
+!check: >git config --system|global|local
+
+>git commit -m "message"
+avoids vi invocation
+
+
+
