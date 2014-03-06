@@ -1,0 +1,13 @@
+>git init
+init for new project, creates empty .git folder
+
+>git status
+ shows status (tracked/untracked files)
+
+create textfile .gitignore
+add filenames to be ignored, wildcards possible, e.g. *~
+otherwise git comes with warning "untracked files"
+
+>git add .
+stages current directory (before actual commit)
+
