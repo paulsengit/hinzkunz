@@ -28,5 +28,15 @@ shows config
 >git commit -m "message"
 avoids vi invocation
 
+>git log
+shows commits 40digit HexHash (use first 4 digits)
+
+>git log --
+shows help
+!check: functions
+
+oscho
+
+
 
 
