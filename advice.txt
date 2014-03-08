@@ -35,7 +35,10 @@ shows commits 40digit HexHash (use first 4 digits)
 shows help
 !check: functions
 
-oscho
+>git commit -a
+stage and commit
+
+
 
 
 
