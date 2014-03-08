@@ -38,6 +38,12 @@ shows help
 >git commit -a
 stage and commit
 
+>git diff <filename>
+deleted:red, insert: green, changed: green and red (lines)
+
+
+
+
 
 
 
